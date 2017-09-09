@@ -5,5 +5,5 @@ The course address is: https://www.coursera.org/specializations/deep-learning
 
 > **Warning:** the sequence of "choice options" of "choice questions" in Coursera may be different from my screenshot image.
 
-> **提醒：** Course上选择题的选项的顺序可能会和我提供的截图上的顺序不一样。
+> **提醒：** Coursera上选择题的选项的顺序可能会和我提供的截图上的顺序不一样。
 
