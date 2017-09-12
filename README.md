@@ -7,3 +7,4 @@ The course address is: https://www.coursera.org/specializations/deep-learning
 
 > **提醒：** Coursera上选择题的选项的顺序可能会和我提供的截图上的顺序不一样。
 
+
